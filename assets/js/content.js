@@ -210,9 +210,9 @@ const SITE = {
   skills: [
     { name: "Programming",                 level: 85 },
     { name: "Problem Management",           level: 88 },
-    { name: "Planning",                     level: 85 },
-    { name: "Organisation",                 level: 85 },
-    { name: "Mathematical & Analytical",    level: 85 },
+    { name: "Planning",                     level: 80 },
+    { name: "Organisation",                 level: 80 },
+    { name: "Mathematical & Analytical",    level: 95 },
     { name: "Gathering Info & Knowledge",   level: 90 },
   ],
 
