@@ -26,3 +26,7 @@ a tiny server: `python -m http.server` then visit http://localhost:8000.)
 ## Pages
 - `index.html` Home · `experience.html` · `education.html` · `skills.html`
 - Styling: `assets/css/style.css` · Logic: `assets/js/main.js`
+
+
+## Final Viewable Link: 
+surajps.github.io/Portfolio_SPSK
